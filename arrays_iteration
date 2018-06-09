@@ -1,0 +1,8 @@
+cart_item_prices = [48.23, 6.97, 26.95, 129.99]
+
+count = 1
+
+# wall_clock = 48.23
+# pop_socket = 6.97
+# spiralizer = 26.95
+# echo_plus = 129.99
